@@ -1,0 +1,25 @@
+.Topic{
+    font-size:40px;
+    background-color: #FFD4B2;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+
+}
+.container{
+    background-color: blanchedalmond;
+    display: grid;
+    justify-content:space-around;
+    margin: 0px 200px 0 200px;
+    padding: 50px 0 100px 0;
+}
+p1{
+    margin: 20px;
+}
+
+.Brand{
+    margin: 10px;
+}
+
+.container-people{
+    padding: 10px 10px 10px 10px;
+}
